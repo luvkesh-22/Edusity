@@ -7,8 +7,10 @@
   font-family: "Outfit", sans-serif;
 }
 
-body{
-  background: #f5f5f5;
+body {
+  background-color: #d5cfed; /* dark navy */
+  color: #fffefe; /* light text */
+  font-family: Arial, sans-serif;
 }
 
 a{
@@ -43,7 +45,7 @@ a{
 }
 
 .btn.dark-btn{
-  background: #212EA0;
+  background: #707df1;
   color: #fff;
 }
 

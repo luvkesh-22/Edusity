@@ -38,11 +38,13 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_1} alt="Student Photo" />
                 <div>
-                  <h3>Willaiam Jackson</h3>
-                  <span>Edusity, USA</span>
+                  <h3>Rinki Sharma</h3>
+                  <span>B.Tech CSE, Delhi</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla laoreet metus nec tortor placerat cursus. Duis aliquet tempor tincidunt. Praesent enim nisi</p>
+              <p>
+                The institute provides excellent academic support along with practical exposure. The faculty members are very helpful and always guide us in the right direction. It has truly helped me improve my technical and communication skills.
+              </p>
             </div>
           </li>
 
@@ -51,11 +53,13 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_2} alt="Student Photo" />
                 <div>
-                  <h3>Willaiam Jackson</h3>
-                  <span>Edusity, USA</span>
+                  <h3>Ashish Verma</h3>
+                  <span>MBA, Mumbai</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla laoreet metus nec tortor placerat cursus. Duis aliquet tempor tincidunt. Praesent enim nisi</p>
+              <p>
+                I had a great learning experience here. The campus environment is very positive and motivating. Various workshops and seminars helped me gain industry knowledge and confidence.
+              </p>
             </div>
           </li>
 
@@ -64,11 +68,13 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_3} alt="Student Photo" />
                 <div>
-                  <h3>Willaiam Jackson</h3>
-                  <span>Edusity, USA</span>
+                  <h3>Ankita Sharma</h3>
+                  <span>B.Tech Mechanical, Patna</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla laoreet metus nec tortor placerat cursus. Duis aliquet tempor tincidunt. Praesent enim nisi</p>
+              <p>
+                The infrastructure and lab facilities are very good. The institute focuses not only on academics but also on overall personality development, which is very important for career growth.
+              </p>
             </div>
           </li>
 
@@ -77,11 +83,13 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_4} alt="Student Photo" />
                 <div>
-                  <h3>Willaiam Jackson</h3>
-                  <span>Edusity, USA</span>
+                  <h3>Sudhanshu Reddy</h3>
+                  <span>BBA, Hyderabad</span>
                 </div>
               </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla laoreet metus nec tortor placerat cursus. Duis aliquet tempor tincidunt. Praesent enim nisi</p>
+              <p>
+                The placement support provided by the institute is excellent. The training sessions and mock interviews really helped me get placed in a reputed company. I am very thankful for the guidance I received here.
+              </p>
             </div>
           </li>
 

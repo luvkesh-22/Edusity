@@ -6,12 +6,14 @@ const Hero = () => {
   return (
     <div className='hero container'>
       <div className="hero-text">
-        <h1> We Ensure Better education for a better world</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Nulla laoreet metus nec tortor placerat cursus.  </p>
-          <button className='btn'> Explore More <img src={dark_arrow} alt="Dark Arrow Symbol" /></button>
+        <h1>Empowering Students Through Quality Education</h1>
+        <p>
+          Our institute is dedicated to providing world-class education with a focus on innovation, practical learning, and career growth. We aim to prepare students to excel in academics, industry, and beyond.
+        </p>
+        <button className='btn'>
+          Explore More <img src={dark_arrow} alt="Arrow Icon" />
+        </button>
       </div>
-      
     </div>
   )
 }
