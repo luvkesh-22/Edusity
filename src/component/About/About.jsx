@@ -25,6 +25,9 @@ const About = ({setPlayState}) => {
   <p>
     We aim to shape future leaders by promoting critical thinking, research, and real-world problem-solving abilities. Our graduates are well-prepared to excel in their careers and contribute to society.
   </p>
+  <p>
+  Established in 2010, our institute has consistently produced skilled professionals across various fields.
+</p>
 </div>
     </div>
   )

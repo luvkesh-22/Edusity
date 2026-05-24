@@ -13,7 +13,8 @@
   width: 50px;
   border-radius: 50%;
   cursor: pointer;
-  background: #212EA0;
+ background: rgba(220, 214, 247, 0.75);
+backdrop-filter: blur(5px);
 }
 
 .back-btn{

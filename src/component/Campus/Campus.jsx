@@ -9,13 +9,23 @@ import white_arrow from '../../assets/img/white-arrow.png';
 const Campus = () => {
   return (
     <div className='campus'>
+      
+      <h2 className="campus-title">Our Campus Life</h2>
+      <p className="campus-desc">
+        Explore our vibrant campus environment featuring modern classrooms, well-equipped libraries, and a dynamic student community.
+      </p>
+
       <div className="gallery">
-        <img src={gallery_1} alt="Campus Photo of Library" />
-        <img src={gallery_2} alt="Campus Photo of Study Desk" />
-        <img src={gallery_3} alt="Campus Photo of Students with Degree" />
-        <img src={gallery_4} alt="Campus Photo of Student with Degree" />
+        <img src={gallery_1} alt="Institute Library" />
+        <img src={gallery_2} alt="Smart Classroom" />
+        <img src={gallery_3} alt="Graduation Ceremony" />
+        <img src={gallery_4} alt="Student Achievements" />
       </div>
-      <button className='btn dark-btn'>See More Here <img src={white_arrow} alt="white arrow" /></button>
+
+      <button className='btn dark-btn'>
+        Explore More <img src={white_arrow} alt="arrow icon" />
+      </button>
+
     </div>
   )
 }

@@ -10,7 +10,7 @@ const Hero = () => {
         <p>
           Our institute is dedicated to providing world-class education with a focus on innovation, practical learning, and career growth. We aim to prepare students to excel in academics, industry, and beyond.
         </p>
-        <button className='btn'>
+ <button className='hero-btn'>
           Explore More <img src={dark_arrow} alt="Arrow Icon" />
         </button>
       </div>
